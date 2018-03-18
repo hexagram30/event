@@ -10,8 +10,7 @@
 Standalone:
 
 ```
-$ lein kafka-create
-$ lein kafka-start
+$ lein kafka
 ```
 
 For use as part of a component-based system, see
