@@ -24,6 +24,7 @@
   :dependencies [
     [clojusc/twig "0.3.2"]
     [org.clojure/clojure "1.8.0"]
+    [org.clojure/core.async "0.4.474"]
     [spootnik/kinsky "0.1.21"]]
   :profiles {
     :ubercompile {
